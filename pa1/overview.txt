@@ -1,0 +1,27 @@
+Matthew Sagen
+James Mitchell
+Hugh Jackovich
+Cory Petersen
+
+
+Matthew:
+	- One thing that gave me trouble was trying to get the x, y, and z components of vectors, without using get methods, for the JUnit test case.
+	- Wrote the methods: scale(), add(), negate(), and dot().
+	- Wrote the testcases for: scale(), add(), and negate(). 
+	- Total time spent on project ~120 mintues. 
+
+James:
+
+Hugh:
+	- Fixed variables in dot() and 
+	- Wrote junit cases for: magnitude, dot, subtract, and equals
+	- Using eGit was troublesome, finally figured it out, then when commiting while another person was,
+	  had issues trying to fix commiting and pulling after.
+	- Coding took around 10 minutes, figuring out git took around 2 hours
+Cory:
+	- Wrote methods for magnitude, toString and equals
+	- Fixed errors in subtract method and general typos throughout the document
+	- Similar issues as team mates with eGit, however was able to understand after working through with Hugh 
+	  to learn how to properly pull git projects and updates to eclipse, and commit back in a streamlined manner
+	- Learning eGit was the majority of my time commitment, probably an hour and a half to two hours
+	  the code itself took me about half an hour
